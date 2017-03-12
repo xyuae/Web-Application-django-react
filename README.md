@@ -6,8 +6,21 @@
 ### Python
 * [Install python in different operating system] (https://tutorial.djangogirls.org/en/python_installation/)
 * [IDE] (https://tutorial.djangogirls.org/en/code_editor/) Alternative powerful IDE to choose from
+* [List and dictionary] (https://tutorial.djangogirls.org/en/python_introduction/)
+* [Setting up virtual Environment] (https://ece.uwaterloo.ca/~agurfink/ece653/tutorial/2017/01/01/virtualenv-intro)
+* [Certification error in online IDE] (https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl) This may be helpful for online ide user
+* 
+
 
 ### Django
-* [An unofficial Django tutorial] (https://tutorial.djangogirls.org/)
-* 
-* 
+* [An unofficial Django tutorial](https://tutorial.djangogirls.org/)
+* [Install Django](https://tutorial.djangogirls.org/en/django_installation/)
+* [Start Django backend Server on cloud9](https://tutorial.djangogirls.org/en/django_start_project/)
+* [Creating data models](https://tutorial.djangogirls.org/en/django_models/)
+
+
+
+## Note
+manage.py is a script that start a web server and manages the site
+setings.py contains the configuraiton of the website
+urls.py contains a list of patterns used by urlresolver
