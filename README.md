@@ -16,11 +16,17 @@
 * [An unofficial Django tutorial](https://tutorial.djangogirls.org/)
 * [Install Django](https://tutorial.djangogirls.org/en/django_installation/)
 * [Start Django backend Server on cloud9](https://tutorial.djangogirls.org/en/django_start_project/)
-* [Creating data models](https://tutorial.djangogirls.org/en/django_models/)
+* [Creating/adding new app to framework and creating data models](https://tutorial.djangogirls.org/en/django_models/) You can find link to detailed documentation too
+* [Deploy and setting up git](https://tutorial.djangogirls.org/en/deploy/)
+
+
+### Git
+* 
 
 
 
-## Note
+### Note
 manage.py is a script that start a web server and manages the site
 setings.py contains the configuraiton of the website
 urls.py contains a list of patterns used by urlresolver
+touch creates a new file in linux
