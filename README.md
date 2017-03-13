@@ -1,5 +1,6 @@
 ## Learning Resources
-
+Part(Most) of the resources are from the online tutorial [djangoGirls](https://tutorial.djangogirls.org/en/). I further divided the tutorial into small sections and links
+The website is on http://xyuae.pythonanywhere.com/
 ### Command line 
 * [Manageing directory] (https://tutorial.djangogirls.org/en/intro_to_command_line/) The list of command is useful
 
@@ -18,15 +19,17 @@
 * [Start Django backend Server on cloud9](https://tutorial.djangogirls.org/en/django_start_project/)
 * [Creating/adding new app to framework and creating data models](https://tutorial.djangogirls.org/en/django_models/) You can find link to detailed documentation too
 * [Deploy and setting up git](https://tutorial.djangogirls.org/en/deploy/)
-
+* [URL and regex](https://tutorial.djangogirls.org/en/django_urls/)
 
 ### Git
-* 
+* [Setting up git and git command](https://tutorial.djangogirls.org/en/deploy/)
 
 
 
 ### Note
-manage.py is a script that start a web server and manages the site
-setings.py contains the configuraiton of the website
-urls.py contains a list of patterns used by urlresolver
-touch creates a new file in linux
+* manage.py is a script that start a web server and manages the site
+* setings.py contains the configuraiton of the website
+* urls.py contains a list of patterns used by urlresolver
+* touch creates a new file in linux
+* workflow in web development – make changes locally, push those changes to GitHub, and pull your changes down to your live Web server
+* include all used funcitons(url, include) from django.conf.urls in urls.py 
