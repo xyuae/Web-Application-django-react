@@ -20,6 +20,9 @@ The website is on http://xyuae.pythonanywhere.com/
 * [Creating/adding new app to framework and creating data models](https://tutorial.djangogirls.org/en/django_models/) You can find link to detailed documentation too
 * [Deploy and setting up git](https://tutorial.djangogirls.org/en/deploy/)
 * [URL and regex](https://tutorial.djangogirls.org/en/django_urls/)
+* [html and templates](https://tutorial.djangogirls.org/en/html/)
+* [ORM(object-relational mappers and reasons to use it](https://www.fullstackpython.com/object-relational-mappers-orms.html)
+* [Shell and Django ORM](https://tutorial.djangogirls.org/en/django_orm/)
 
 ### Git
 * [Setting up git and git command](https://tutorial.djangogirls.org/en/deploy/)
