@@ -24,6 +24,9 @@ The website is on http://xyuae.pythonanywhere.com/
 * [ORM(object-relational mappers and reasons to use it](https://www.fullstackpython.com/object-relational-mappers-orms.html)
 * [Shell and Django ORM](https://tutorial.djangogirls.org/en/django_orm/)
 * [CSS, CSS file setup and CSS class](https://tutorial.djangogirls.org/en/css/)
+* [More url and application extention](https://tutorial.djangogirls.org/en/extend_your_application/)
+* [admin setting configuration, create requirement file](http://stackoverflow.com/questions/37949198/wsgirequest-object-has-no-attribute-user-django-admin)Trouble shoot when you have 'cant find user' error
+* 
 
 ### Git
 * [Setting up git and git command](https://tutorial.djangogirls.org/en/deploy/)
