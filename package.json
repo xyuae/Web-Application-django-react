@@ -1,0 +1,15 @@
+{
+  "name": "reacjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "y",
+  "author": "y",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0"
+  }
+}

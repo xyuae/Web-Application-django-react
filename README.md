@@ -9,7 +9,7 @@ The website is on http://xyuae.pythonanywhere.com/
 * [IDE] (https://tutorial.djangogirls.org/en/code_editor/) Alternative powerful IDE to choose from
 * [List and dictionary] (https://tutorial.djangogirls.org/en/python_introduction/)
 * [Setting up virtual Environment] (https://ece.uwaterloo.ca/~agurfink/ece653/tutorial/2017/01/01/virtualenv-intro)
-* [Certification error in online IDE] (https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl) This may be helpful for online ide user
+
 
 
 
@@ -26,7 +26,17 @@ The website is on http://xyuae.pythonanywhere.com/
 * [CSS, CSS file setup and CSS class](https://tutorial.djangogirls.org/en/css/)
 * [More url and application extention](https://tutorial.djangogirls.org/en/extend_your_application/)
 * [admin setting configuration, create requirement file](http://stackoverflow.com/questions/37949198/wsgirequest-object-has-no-attribute-user-django-admin)Trouble shoot when you have 'cant find user' error
-* 
+* [Certification error in online IDE](https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl) This may be helpful for online ide user
+* [More stuff to learn](https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/)
+
+### ReactJS
+* [Install yarn](https://yarnpkg.com/en/docs/install#linux-tab)
+* [Using yarn](https://yarnpkg.com/en/docs/usage)
+* [JS tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [Install babel](https://babeljs.io/docs/setup/#installation)
+* [Intall nvm](https://github.com/creationix/nvm#usage)
+
+
 
 ### Git
 * [Setting up git and git command](https://tutorial.djangogirls.org/en/deploy/)
