@@ -28,6 +28,8 @@ The website is on http://xyuae.pythonanywhere.com/
 * [admin setting configuration, create requirement file](http://stackoverflow.com/questions/37949198/wsgirequest-object-has-no-attribute-user-django-admin)Trouble shoot when you have 'cant find user' error
 * [Certification error in online IDE](https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl) This may be helpful for online ide user
 * [More stuff to learn](https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/)
+* [Django blog](http://bookshadow.com/weblog/categories/django/)
+* 
 
 ### ReactJS
 * [Install yarn](https://yarnpkg.com/en/docs/install#linux-tab)
@@ -35,6 +37,7 @@ The website is on http://xyuae.pythonanywhere.com/
 * [JS tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Install babel](https://babeljs.io/docs/setup/#installation)
 * [Intall nvm](https://github.com/creationix/nvm#usage)
+* [facebook tutorial](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) main tutrial from facebook
 
 
 
