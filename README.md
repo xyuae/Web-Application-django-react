@@ -29,7 +29,10 @@ The website is on http://xyuae.pythonanywhere.com/
 * [Certification error in online IDE](https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl) This may be helpful for online ide user
 * [More stuff to learn](https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/)
 * [Django blog](http://bookshadow.com/weblog/categories/django/)
-* 
+* [Login/logout, security](https://github.com/DjangoGirls/tutorial-extensions/blob/master/authentication_authorization/README.md)
+* [Django authen/security api](https://docs.djangoproject.com/en/1.10/topics/auth/default/)
+* JSX: javascript syntax extension: A preprocessor that adds XML syntax to Javascript
+* [Arrow function and how it pass this](https://www.youtube.com/watch?v=nMApc_undbI)
 
 ### ReactJS
 * [Install yarn](https://yarnpkg.com/en/docs/install#linux-tab)
@@ -38,6 +41,7 @@ The website is on http://xyuae.pythonanywhere.com/
 * [Install babel](https://babeljs.io/docs/setup/#installation)
 * [Intall nvm](https://github.com/creationix/nvm#usage)
 * [facebook tutorial](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) main tutrial from facebook
+* [Crash Course in React](https://www.youtube.com/watch?v=A71aqufiNtQ)
 
 
 

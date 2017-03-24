@@ -16,7 +16,12 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 
+# import the views.login 
+from django.contrib.auth import views
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'', include('blog.urls'))
+    url(r'', include('blog.urls')),
+    url(r'^accounts/login/$', views.login, name='login'),
+    url('^', include('django.contrib.auth.urls')),
 ]
