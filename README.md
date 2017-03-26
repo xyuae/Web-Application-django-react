@@ -11,7 +11,8 @@ The website is on http://xyuae.pythonanywhere.com/
 * [Setting up virtual Environment] (https://ece.uwaterloo.ca/~agurfink/ece653/tutorial/2017/01/01/virtualenv-intro)
 
 
-
+## CSS
+* [Control css cache](http://stackoverflow.com/questions/20300400/google-chrome-css-doesnt-update-unless-clear-cache)
 
 ### Django
 * [An unofficial Django tutorial](https://tutorial.djangogirls.org/)

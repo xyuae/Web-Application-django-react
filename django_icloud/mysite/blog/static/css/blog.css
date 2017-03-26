@@ -24,6 +24,10 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
 .date {
     color: #828282;
 }
